@@ -4,8 +4,9 @@
 <p>3. Set your Mailtrap credentials in your .env file. Specifically MAIL_USERNAME and MAIL_PASSWORD <a href = "https://mailtrap.io/">Mailtrap</a></p>
 <p>4. composer update </p>
 <p>5. Generating a New Application Key</p><p>php artisan key:generate</p>
-<p>6. php artisan serve </p>
-<p>7. Visit localhost:8000 in your browser </p>
+<p>6. php artisan migrate/p>
+<p>7. php artisan serve </p>
+<p>8. Visit localhost:8000 in your browser </p>
 
 
 
